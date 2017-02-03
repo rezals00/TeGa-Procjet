@@ -1,0 +1,31 @@
+.navbar {
+  border-bottom: 0px;
+  border-top: 0px;
+}
+.navbar-blue{
+  border:0px;
+  background-color: #3498db;
+  border-bottom: 0px;
+  border-top: 0px;
+}
+.navbar-toggle {
+	color:blue;
+	background-color: white;
+}
+.blue {
+	background-color: #3498db;
+}
+.panel-blue {
+  border-color: #3498db;
+}
+.panel-blue > .panel-heading {
+  color: white;
+  background-color: #3498db;
+  border-color: #3498db;
+}
+a {
+	color:white;
+}
+.btn {
+	color:white;
+}
